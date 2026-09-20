@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+**/node_modules/
+
+# Build files
+dist/
+**/dist/
+dist-ssr/
+**/dist-ssr/
+
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# VS Code / IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.localbackend/config/config.env
